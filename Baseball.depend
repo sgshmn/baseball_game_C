@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1687430300 source:c:\users\woong\2023_clang\baseball\main.c
+	<stdio.h>
+	<stdlib.h>
+	"show.h"
+	"enter.h"
+	"game.h"
+
+1687437111 source:c:\users\woong\2023_clang\baseball\show.c
+	<stdio.h>
+
+1687437139 c:\users\woong\2023_clang\baseball\show.h
+
+1687437573 source:c:\users\woong\2023_clang\baseball\enter.c
+	<stdio.h>
+	"show.h"
+
+1686485684 source:c:\users\woong\2023_clang\baseball\game.c
+	<stdio.h>
+	"show.h"
+	"enter.h"
+	"compute.h"
+
+1686476246 c:\users\woong\2023_clang\baseball\enter.h
+
+1686477639 c:\users\woong\2023_clang\baseball\compute.h
+
+1687436780 source:c:\users\woong\2023_clang\baseball\compute.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1686385240 c:\users\woong\2023_clang\baseball\game.h
+
